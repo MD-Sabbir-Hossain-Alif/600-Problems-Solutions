@@ -1,5 +1,6 @@
-const eidBonus = 350;
+let eidBonus = 350,
+    numOfPeople = 5;
 
-let totalEidBonus = 5 * eidBonus;
+let totalEidBonus = numOfPeople * eidBonus;
 
 console.log(totalEidBonus, "TK");
