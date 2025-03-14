@@ -20,8 +20,8 @@ const hours = 2; //average 2 hours/week but now i spend lots of time
 
 // 07: Sum of all phone number degit
 
-let phoneNumber = [0, 1, 3, 0, 0, 3, 8, 6, 8, 3, 0];
-let total =  0 + 1 + 3 + 0 + 0 + 3 + 8 + 6 + 8 + 3 + 0;
+let phoneNumber = [0, 1, 3, 0, 0, 3, 8, 6, 8, 3, 0]; // this is not my number !!warning
+let total =  0 + 1 + 3 + 0 + 0 + 3 + 8 + 6 + 8 + 3 + 0;// this number is only for test
 
 // or using for loop
 
