@@ -16,7 +16,7 @@ console.log(address);
 //TODO: Best Friend university 
 /* ------------------------------- Problem 03 ------------------------------- */
 const bestFriend = "Jahangir Nagor University";
-console.log(address);
+console.log(bestFriend);
 // output: Jahangir Nagor University
 
 
