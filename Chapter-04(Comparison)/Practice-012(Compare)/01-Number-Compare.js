@@ -62,7 +62,7 @@ console.log(Compare);
 
 
 //TODO: comparsion between result
-/* ------------------------------- Problem 06 ------------------------------- */
+/* ------------------------------- Problem 07 ------------------------------- */
 
 let sabbirsMarks = 45,
     friendsMarks = 97;
