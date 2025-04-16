@@ -28,7 +28,7 @@ const favMovie = ["3Idiots", "Dipu Number 2", "Inception", "The Matrix", "The Da
 const odd = [11, 13, 15, 17, 19, 21, 23, 25, 27, 29];
 
 
-//TODO: condition for logical not operator
+//TODO: color length array
 /* ------------------------------- Problem 06 ------------------------------- */
 const colors = ["Red", "Green", "Blue", "Yellow", "Orange", "Indigo", "Violet"]
 const howManyColors = colors.length;
@@ -37,7 +37,7 @@ console.log(howManyColors);
 
 // Output: 7
 
-//TODO: condition for logical not operator
+//TODO: country length array
 /* ------------------------------- Problem 07 ------------------------------- */
 const countries = ["Dhaka", "Ramallah", "Singapore", "Doha", "Kabul", "Jakarta",]
 const howManyCountries = countries.length;
