@@ -1,4 +1,4 @@
-//TODO: printing 1 to 110 and multiply with 3 using while loop
+//TODO: printing 21 to 40 sum using while loop
 /* ------------------------------- Problem 05 ------------------------------- */
 let num = 20;
 let sum = 0;
