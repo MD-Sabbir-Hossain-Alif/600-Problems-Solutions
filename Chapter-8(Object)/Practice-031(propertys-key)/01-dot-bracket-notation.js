@@ -12,7 +12,7 @@ const player = {
 console.log(player.team);
 
 
-//TODO: create an object named laptop with properties & print screenSize name
+//TODO: create an object named laptop with properties & print screenSize
 /* ------------------------------- Problem 02 ------------------------------- */
 
 const laptop = {
@@ -26,7 +26,7 @@ const laptop = {
 console.log(laptop.screenSize);
 
 
-//TODO: create an object named favPlace with properties & print popularity name
+//TODO: create an object named favPlace with properties & print popularity
 /* ------------------------------- Problem 03 ------------------------------- */
 
 const favPlace = {
@@ -38,7 +38,7 @@ const favPlace = {
 console.log(favPlace['popularity']);
 
 
-//TODO: create an object named phone with properties & print price name
+//TODO: create an object named phone with properties & print price
 /* ------------------------------- Problem 04 ------------------------------- */
 
 const phone = {
@@ -50,7 +50,7 @@ const phone = {
 console.log(phone['price']);
 
 
-//TODO: create an object named library with properties & print location name
+//TODO: create an object named library with properties & print location
 /* ------------------------------- Problem 05 ------------------------------- */
 
 const library = {
@@ -63,7 +63,7 @@ const libraryLocation = library.location;
 console.log(libraryLocation);
 
 
-//TODO: create an object named movie with properties & print rating name
+//TODO: create an object named movie with properties & print rating
 /* ------------------------------- Problem 06 ------------------------------- */
 
 const movie = {
@@ -75,7 +75,7 @@ const movie = {
 console.log(movie["rating"]);
 
 
-//TODO: create an object named college with properties & print groups name
+//TODO: create an object named college with properties & print groups
 /* ------------------------------- Problem 07 ------------------------------- */
 
 const college = {
