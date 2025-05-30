@@ -17,11 +17,19 @@ console.log(x);
 // Output: HP
 
 
-//TODO: 
+//TODO: taking apart from objcet
 /* ------------------------------- Problem 02 ------------------------------- */
 
+const item = {
+    name: "Mobile",
+    price: 39999,
+    phone: "Samsung"
+};
+const {name, price} = item;
+console.log(name, price);
 
-// Output: 
+
+// Output: Mobile , 39999
 
 
 //TODO: 
