@@ -64,27 +64,45 @@ console.log(two);
 console.log(eight);
 
 
-// Output: 2;
-// Output: 2;
+// Output: 2
+// Output: 8
 
 
-//TODO: 
+//TODO: taking apart function return value
 /* ------------------------------- Problem 06 ------------------------------- */
 
+function multiply(a, b) {
+    return [a * 3, b * 3];
+};
+const [prothom, ditiyo] = multiply(20, 40);
+console.log(prothom);
+console.log(ditiyo);
+
+// Output: 60, 120
 
 
-// Output: 
-
-//TODO: 
+//TODO: taking apart from objcet
 /* ------------------------------- Problem 07 ------------------------------- */
 
+const person = {
+    personName: "Rahim",
+    city: "Dhaka"
+};
+const {personName, city, phone = "N/A"} = person
+console.log(personName, city, phone)
+
+// Output: Rahim, Dhaka, N/A
 
 
-// Output: 
-
-//TODO: 
+//TODO: taking apart from objcet
 /* ------------------------------- Problem 08 ------------------------------- */
 
+const teacher = {
+    tName: "Maria",
+    profession: "Teacher"
+};
+const {tName, profession: job} = teacher;
+console.log(tName, job);
 
 
-// Output: 
+// Output: Maria, Teacher
