@@ -32,12 +32,17 @@ console.log(name, price);
 // Output: Mobile , 39999
 
 
-//TODO: 
+//TODO: taking apart from array
 /* ------------------------------- Problem 03 ------------------------------- */
 
+const color = ["rad", "blue", "green", "yellow"];
 
+const [first, second] = color;
+console.log(first);
+console.log(second);
 
-// Output: 
+// Output: red
+// Output: blue
 
 
 //TODO: 
