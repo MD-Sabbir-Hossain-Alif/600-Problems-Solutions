@@ -45,20 +45,28 @@ console.log(second);
 // Output: blue
 
 
-//TODO: 
+//TODO: taking apart from array
 /* ------------------------------- Problem 04 ------------------------------- */
 
+const nums = [30, 40, 50];
+const [ , secondNum] = nums;
+console.log(secondNum);
+
+// Output: 40
 
 
-// Output: 
-
-
-//TODO: 
+//TODO: taking apart from array
 /* ------------------------------- Problem 05 ------------------------------- */
 
+const digits = [2, 4, 6, 8];
+const [two, , , eight] = digits;
+console.log(two);
+console.log(eight);
 
 
-// Output: 
+// Output: 2;
+// Output: 2;
+
 
 //TODO: 
 /* ------------------------------- Problem 06 ------------------------------- */
