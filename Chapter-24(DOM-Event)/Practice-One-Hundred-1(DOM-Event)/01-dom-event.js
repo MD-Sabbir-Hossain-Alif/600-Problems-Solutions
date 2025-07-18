@@ -16,38 +16,55 @@
 */
 
 
-//TODO: 
+//TODO: dark mode and light mode localStorage save and get
 /* ------------------------------- Problem 02 ------------------------------- */
 // saving 
-let mode = "dark";
+localStorage.setItem('mode', 'dark');
+
+let on = localStorage.getItem('mode');
+console.log(on);
+
+localStorage.setItem('mode', 'light');
+
+let off = localStorage.getItem('mode');
+console.log(off)
+
+// Output: dark
+// Output: light
 
 
-
-// Output: 
-
-
-//TODO: 
+//TODO: user Token and value save to the sessionStorage and log it
 /* ------------------------------- Problem 03 ------------------------------- */
 
+//saving
+sessionStorage.setItem('authToken', 'abcd1234');
+
+let token = sessionStorage.getItem('authToken');
+console.log(token);
 
 
+// Output: abcd1234
 
-// Output: 
 
-
-//TODO: 
+//TODO: save a user name check and remove it from sessionStorage
 /* ------------------------------- Problem 04 ------------------------------- */
 
+// saving
+localStorage.setItem('userName', 'Alex');
+
+let geting = localStorage.getItem('userName');
+console.log(geting);
+
+let checking = sessionStorage.removeItem('userName');
+console.log(checking);
 
 
+// Output: Alax
+// Output: undefiend
 
-// Output: 
 
-
-//TODO: 
+//TODO: using history api back two step in browser 
 /* ------------------------------- Problem 05 ------------------------------- */
 
-
-
-
-// Output: 
+// Go to step back in the browsing history
+history.back(-2);
