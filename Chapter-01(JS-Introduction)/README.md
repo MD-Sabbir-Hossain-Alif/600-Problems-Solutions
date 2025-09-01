@@ -1,13 +1,6 @@
 
 # Js Basic Math
 
-## আমি প্রথম প্রথম বইয়ের এই practice task দেখে,
-## কিছু বুজতে না পেরে ChatGPT ব্যবহার করে বের করেছিলাম।
-## পরে বুঝলাম এইখেনে just answer লিখতে হবে ...
-
-
-### কিন্তু আর ChatGPT use করিনি , আগে Code লিখছি তারপর ChatGPT কে,
-### বলছি আমার ভুল কথায় হইছে আর Best Practice দেখাও
 
 1. positive-negative
 Ans:positive number: 12, 0, 3.5
